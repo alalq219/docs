@@ -87,6 +87,6 @@ For personal accounts only, you can also choose to turn off email notifications 
 ![Screenshot of the "Email alerts" settings. The options "Included resources alerts" and "Spending limit alerts" are both selected.](/assets/images/help/codespaces/codespaces-spending-limit-notifications.png)
 
 ## Further reading
-
+v
 * [AUTOTITLE](/codespaces/managing-codespaces-for-your-organization/restricting-access-to-machine-types)
 * [AUTOTITLE](/codespaces/managing-codespaces-for-your-organization/managing-the-cost-of-github-codespaces-in-your-organization)
